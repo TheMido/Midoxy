@@ -1,0 +1,13 @@
+__pycache__
+*.py[cod]
+*$py.class
+.git
+.gitignore
+.github
+data/
+*.state.json
+.midoxy_secret
+midoxy_state.json
+README.md
+LICENSE
+SECURITY.md
